@@ -1,0 +1,7 @@
+start
+define variables
+have options shown
+get input from user for seating classes
+calculate revenue for each class and total revenue
+clear button to reset for more classes
+stop
