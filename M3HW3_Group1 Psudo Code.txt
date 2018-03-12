@@ -1,0 +1,34 @@
+
+David Edwards
+
+CSC_153 Workshopo Program
+
+Mr. William Buckwell
+
+March 7,2018
+
+Group Leader  Matthew Hunter
+
+Group Member  Cameron Scott
+
+
+
+         Pseudo Code for the Workshop program;
+
+Start
+
+	Set up the variables to be used in the program
+
+	Ask the employee to choose the desired training
+
+	Ask the employee to choose the desired location
+
+	Establish the cost of the requested training 
+
+        Establish the per diem cost based on the location
+
+       Complete the overall cost of the training packages 
+
+		
+
+Stop
